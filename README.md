@@ -1,7 +1,7 @@
 # Comment Categorization & Reply Assistant Tool
 
 **Submitted by:** N Akash
-**Tech Stack:** React, TypeScript, Google Gemini API, Tailwind CSS
+
 
 ## Project Overview
 This tool automates the process of moderating user feedback. It utilizes Natural Language Processing (via Gemini AI) to analyze comments, classify them into 8 distinct categories, and generate appropriate responses or internal action flags.
